@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Futa subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="It" title="It">
+            <outline type="rss" text="フリック！ニュース ／Flick!News" title="フリック！ニュース ／Flick!News" xmlUrl="http://blog.sideriver.com/flick/atom.xml" htmlUrl="http://blog.sideriver.com/flick/"/>
+            <outline type="rss" text="ギズモード・ジャパン" title="ギズモード・ジャパン" xmlUrl="http://feeds.gizmodo.jp/rss/gizmodo/index.xml" htmlUrl="https://www.gizmodo.jp"/>
+            <outline type="rss" text="Engadget Japanese RSS Feed" title="Engadget Japanese RSS Feed" xmlUrl="http://feeds.feedburner.com/engadget/japanese" htmlUrl="https://japanese.engadget.com/rss.xml"/>
+            <outline type="rss" text="GIGAZINE" title="GIGAZINE" xmlUrl="http://gigazine.net/index.php?/news/rss_2.0/" htmlUrl="https://gigazine.net/"/>
+            <outline type="rss" text="ライフハッカー［日本版］" title="ライフハッカー［日本版］" xmlUrl="http://www.lifehacker.jp/index.xml" htmlUrl="https://www.lifehacker.jp"/>
+            <outline type="rss" text="Techable（テッカブル） -海外・国内のネットベンチャー系ニュースサイト" title="Techable（テッカブル） -海外・国内のネットベンチャー系ニュースサイト" xmlUrl="http://techable.jp/feed" htmlUrl="https://techable.jp"/>
+            <outline type="rss" text="サイボウズ式" title="サイボウズ式" xmlUrl="http://cybozushiki.cybozu.co.jp/?feed=rss2" htmlUrl="https://cybozushiki.cybozu.co.jp/"/>
+            <outline type="rss" text="WIRED.jp最新情報 Feed – WIRED.jp" title="WIRED.jp最新情報 Feed – WIRED.jp" xmlUrl="http://wired.jp/rssfeeder/" htmlUrl="https://wired.jp"/>
+            <outline type="rss" text="はてなブックマーク - 人気エントリー - テクノロジー" title="はてなブックマーク - 人気エントリー - テクノロジー" xmlUrl="http://b.hatena.ne.jp/hotentry/it.rss" htmlUrl="https://b.hatena.ne.jp/hotentry/it"/>
+        </outline>
+        <outline text="Programming" title="Programming">
+            <outline type="rss" text="geechs magazine" title="geechs magazine" xmlUrl="http://geechs-magazine.com/feed" htmlUrl="https://geechs-magazine.com"/>
+            <outline type="rss" text="TechCrunch Japan" title="TechCrunch Japan" xmlUrl="http://jp.techcrunch.com/feed/" htmlUrl="https://jp.techcrunch.com"/>
+            <outline type="rss" text="CodeZine:新着一覧" title="CodeZine:新着一覧" xmlUrl="http://codezine.jp/rss/new/20/index.xml" htmlUrl="https://codezine.jp/"/>
+            <outline type="rss" text="PSYENCE:MEDIA" title="PSYENCE:MEDIA" xmlUrl="http://tech.recruit-mp.co.jp/feed/" htmlUrl="https://tech.recruit-mp.co.jp"/>
+            <outline type="rss" text="SELECK" title="SELECK" xmlUrl="https://seleck.cc/rss.xml" htmlUrl="https://seleck.cc"/>
+            <outline type="rss" text="ITpro 最新ニュース" title="ITpro 最新ニュース" xmlUrl="http://itpro.nikkeibp.co.jp/rss/news.rdf" htmlUrl="http://itpro.nikkeibp.co.jp/news/"/>
+            <outline type="rss" text="POSTD" title="POSTD" xmlUrl="http://postd.cc/feed/" htmlUrl="https://postd.cc"/>
+            <outline type="rss" text="TECH::NOTE" title="TECH::NOTE" xmlUrl="https://tech-camp.in/note/feed/" htmlUrl="https://tech-camp.in/note"/>
+            <outline type="rss" text="CodeCampus" title="CodeCampus" xmlUrl="http://blog.codecamp.jp/feed/" htmlUrl="https://blog.codecamp.jp/"/>
+            <outline type="rss" text="Cybozu Inside Out | サイボウズエンジニアのブログ" title="Cybozu Inside Out | サイボウズエンジニアのブログ" xmlUrl="http://developer.cybozu.co.jp/tech/atom.xml" htmlUrl="https://blog.cybozu.io/"/>
+        </outline>
+        <outline text="Apple" title="Apple">
+            <outline type="rss" text="Apple信者１億人創出計画" title="Apple信者１億人創出計画" xmlUrl="https://appleshinja.com/feed" htmlUrl="https://appleshinja.com"/>
+            <outline type="rss" text="気になる、記になる…" title="気になる、記になる…" xmlUrl="http://feeds.feedburner.com/taisy0" htmlUrl="https://taisy0.com"/>
+            <outline type="rss" text="AAPL Ch." title="AAPL Ch." xmlUrl="http://applech2.com/feed" htmlUrl="https://applech2.com"/>
+            <outline type="rss" text="りんご人" title="りんご人" xmlUrl="http://ringobito.com/feed/" htmlUrl="http://ringobito.com"/>
+        </outline>
+    </body>
+</opml>
