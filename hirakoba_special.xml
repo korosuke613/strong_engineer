@@ -15,6 +15,7 @@
             <outline type="rss" text="サイボウズ式" title="サイボウズ式" xmlUrl="http://cybozushiki.cybozu.co.jp/?feed=rss2" htmlUrl="https://cybozushiki.cybozu.co.jp/"/>
             <outline type="rss" text="WIRED.jp最新情報 Feed – WIRED.jp" title="WIRED.jp最新情報 Feed – WIRED.jp" xmlUrl="http://wired.jp/rssfeeder/" htmlUrl="https://wired.jp"/>
             <outline type="rss" text="はてなブックマーク - 人気エントリー - テクノロジー" title="はてなブックマーク - 人気エントリー - テクノロジー" xmlUrl="http://b.hatena.ne.jp/hotentry/it.rss" htmlUrl="https://b.hatena.ne.jp/hotentry/it"/>
+            <outline text="ASCII.jp" title="ASCII.jp" type="rss" htmlUrl="http://ascii.jp/cate/1/" xmlUrl="https://ascii.jp/rss.xml"/>
         </outline>
         <outline text="Programming" title="Programming">
             <outline type="rss" text="geechs magazine" title="geechs magazine" xmlUrl="http://geechs-magazine.com/feed" htmlUrl="https://geechs-magazine.com"/>
@@ -26,7 +27,11 @@
             <outline type="rss" text="POSTD" title="POSTD" xmlUrl="http://postd.cc/feed/" htmlUrl="https://postd.cc"/>
             <outline type="rss" text="TECH::NOTE" title="TECH::NOTE" xmlUrl="https://tech-camp.in/note/feed/" htmlUrl="https://tech-camp.in/note"/>
             <outline type="rss" text="CodeCampus" title="CodeCampus" xmlUrl="http://blog.codecamp.jp/feed/" htmlUrl="https://blog.codecamp.jp/"/>
+            
             <outline type="rss" text="Cybozu Inside Out | サイボウズエンジニアのブログ" title="Cybozu Inside Out | サイボウズエンジニアのブログ" xmlUrl="http://developer.cybozu.co.jp/tech/atom.xml" htmlUrl="https://blog.cybozu.io/"/>
+
+            <outline type="rss" text="ペパボテックブログ" title="ペパボテックブログ" htmlUrl="" xmlUrl="https://tech.pepabo.com/feed"/>
+
         </outline>
         <outline text="Apple" title="Apple">
             <outline type="rss" text="Apple信者１億人創出計画" title="Apple信者１億人創出計画" xmlUrl="https://appleshinja.com/feed" htmlUrl="https://appleshinja.com"/>
